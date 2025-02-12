@@ -1,1 +1,2 @@
 # Data-Analytics-and-Visualization-Job-Simulation
+In this project I have worked with a hypothetical social networking platform named Social Buzz. The main feature of the platform is that it tracks the user reactions anonymosly. Besides, its easy-to-use interface the number of users is increasing rapidly. As a result, Social Buzz has to deal in a large amount of data everyday. Now my work is to collect these loads of data and to analyze those data to find key insights and patterns. 
